@@ -17,7 +17,7 @@
 
 .popupform {
     left: 0;
-    height: 530px !important;
+    height: 560px !important;
     margin: auto;
     max-width: 100%;
     padding: 30px 10px;
@@ -70,7 +70,7 @@ input.btn.btn_black {
     font-size: 15px;
     width: 100%;
     left: 0;
-    bottom: 50px;
+    bottom: 0;
 }
 
 #popup h1 {
