@@ -1,5 +1,5 @@
 <?php
-$siteurl = "http://localhost/feedback-form/";
+$siteurl = "https://feedback-form-sc.herokuapp.com/";
 ?>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
